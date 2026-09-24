@@ -1,0 +1,8 @@
+Package: placeholder
+Version: 0.0.0-1
+Section: Packaging
+Priority: optional
+Architecture: iphoneos-arm
+Maintainer: ngayngo666-ship-it <noreply@example.com>
+Description: Placeholder package entry. Replace this file with generated package metadata from your actual .deb files.
+

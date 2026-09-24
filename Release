@@ -1,0 +1,10 @@
+Origin: ngayngo666-ship-it
+Label: Sileo Repo
+Suite: stable
+Codename: ios
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Sileo-compatible APT repository for jailbreak packages
+MD5Sum:
+ SHA256:
